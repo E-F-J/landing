@@ -1,0 +1,9 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.container h2 {
+  font-weight: bold;
+  text-align: center;
+}
